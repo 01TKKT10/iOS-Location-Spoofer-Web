@@ -1,7 +1,7 @@
 {
   "name": "ios-location-spoofer-web",
   "pages_build_output_dir": "public",
-  "compatibility_date": "2026-11-24",
+  "compatibility_date": "2026-11-23",
   "compatibility_flags": ["nodejs_compat"],
   "kv_namespaces": [
     {
