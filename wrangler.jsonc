@@ -1,0 +1,12 @@
+{
+  "name": "ios-location-spoofer-web",
+  "pages_build_output_dir": "public",
+  "compatibility_date": "2026-11-24",
+  "compatibility_flags": ["nodejs_compat"],
+  "kv_namespaces": [
+    {
+      "binding": "SPOOFER_DATA",
+      "id": "a11d4050e55d4da9ae9ebe5cd88f8438"
+    }
+  ]
+}
